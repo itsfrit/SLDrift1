@@ -18,7 +18,7 @@ local admins_list = {
     fullaccess = true,
     lvl = 5
   },
-  ['ronnyevans'] = {
+  ['ronnyevansF'] = {
     fullaccess = true,
     lvl = 5
   }
